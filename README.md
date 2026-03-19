@@ -1,77 +1,90 @@
 # 🚀 Kun AI - Voice AI Platform
 
-**Kun AI** is a professional, full-stack AI platform designed for high-fidelity, character-based voice synthesis. Built with a robust **FastAPI** backend and a high-performance **React** frontend, it demonstrates modern AI integration, real-time audio processing, and a scalable demo access system.
+**Kun AI** is a full-stack AI-powered voice generation platform designed for real-time, character-based speech synthesis.  
+Built using **FastAPI (backend)** and **React (frontend)**, it demonstrates modern AI integration, scalable architecture, and real-world system design.
 
 ---
 
-## 🎥 Project Demo
-[Insert Demo Video Link Here]
+## 🎥 Demo
+[🔗 Demo Video Link]
 
 ---
 
 ## 🖼️ Screenshots
-| UI Overview | Character Select | Voice Call Interface |
-| :---: | :---: | :---: |
-| ![Home](https://via.placeholder.com/300x200?text=App+Home) | ![Characters](https://via.placeholder.com/300x200?text=Character+Select) | ![Chat](https://via.placeholder.com/300x200?text=Voice+Chat) |
 
----
-
-## 🔗 Live Demo
-Check out the platform in action:  
-👉 **[Live Demo Link](https://your-frontend-vercel-link.app)**
+| UI Overview | Character Selection | Voice Interface |
+|------------|-------------------|----------------|
+| ![Home](https://via.placeholder.com/300x200?text=App+Home) | ![Characters](https://via.placeholder.com/300x200?text=Character+Select) | ![Voice](https://via.placeholder.com/300x200?text=Voice+Interface) |
 
 ---
 
 ## ✨ Features
-*   **AI Voice Generation**: Real-time text-to-speech synthesis with low latency.
-*   **Character-Based Personalities**: Unique, pre-configured AI personas with distinct voices and behaviors.
-*   **Multilingual Support**: Optimized for English and Hinglish (Hindi-English blend) interactions.
-*   **Secure Demo Access**: A custom-built system that provides unique, usage-limited access links for recruiters and testers.
-*   **Interactive UI**: A modern, responsive interface built with Tailwind CSS and Framer Motion for smooth animations.
+
+- 🎤 **AI Voice Generation** — Real-time text-to-speech synthesis  
+- 🎭 **Character-Based Voices** — Unique AI personalities  
+- 🌐 **Multilingual Support** — English + Hinglish optimized  
+- ⚡ **Interactive UI** — Smooth and modern frontend experience  
+- 🧠 **AI Integration** — LLM + STT + TTS pipeline design  
+- 🏗️ **Scalable Architecture** — Modular full-stack structure  
 
 ---
 
 ## 🛠️ Tech Stack
-*   **Frontend**: React, Vite, Tailwind CSS, Lucide icons, Framer Motion.
-*   **Backend**: FastAPI (Python), Uvicorn, Python-dotenv.
-*   **AI & Audio**: 
-    *   **TTS**: Edge-TTS (Performance-optimized) & Coqui XTTS v2 (Local high-fidelity).
-    *   **STT**: OpenAI Whisper (Faster-Whisper implementation).
-    *   **LLM**: Google Gemini API integration.
-*   **Auth & Security**: JWT (JSON Web Tokens), BCrypt hashing, and custom Token-based Demo system.
-*   **Database**: Persistent JSON storage for lightweight, portable deployment.
 
----
+**Frontend**
+- React (Vite)
+- Tailwind CSS
+- Framer Motion
+- Lucide Icons
 
-## 🔐 Demo Access System
-To prevent service misuse and ensure fair access, Kun AI features a custom-engineered **Token-Based Demo Access System**:
-*   **Unique Access Links**: Each user/recruiter receives a unique, secure demo link.
-*   **Independent Sessions**: Users are logged in automatically via their unique token without needing a password.
-*   **Usage Limiting**: Each demo session is capped (e.g., at 40 requests) to protect API resources and manage costs.
-*   **Real-time Tracking**: Usage is tracked server-side and persists across sessions.
+**Backend**
+- FastAPI
+- Uvicorn
+- Python-dotenv
+
+**AI & Audio**
+- TTS: Edge-TTS, Coqui XTTS (local)
+- STT: Whisper (Faster-Whisper)
+- LLM: Google Gemini API
+
+**Auth & Security**
+- JWT Authentication
+- BCrypt Hashing
+
+**Database**
+- JSON-based lightweight storage
 
 ---
 
 ## ⚠️ Important Notes
-*   **Cold Start**: Since the backend is hosted on Render's free tier, the first request may take **30–60 seconds** to wake up. Please be patient while the "Neural Link" syncs!
-*   **TTS Performance**: The live demo is optimized with **Edge-TTS** for lightning-fast voice synthesis. High-fidelity local models (Coqui) are available in the full version.
-*   **Data Persistence**: Note that user-created characters in the demo environment may reset periodically due to ephemeral storage on the free tier.
+
+- 🚧 **Deployment Status**  
+  This project is currently **not deployed publicly**.  
+  It is developed and tested in a local environment.
+
+- 🔒 **Private Source Code**  
+  The complete production-ready codebase is maintained in a **private repository**  
+  to prevent API key exposure and protect sensitive integrations.
+
+- 🚀 **Startup Vision**  
+  This project is being developed as a **startup-level product**,  
+  and a full production deployment is planned in the future.
 
 ---
 
 ## 📌 Project Highlights
-*   **High-Quality Architecture**: Modular, clean, and production-ready Python and React codebases.
-*   **Real-world Scalability**: Designed to handle multiple independent demo users simultaneously.
-*   **Full-stack Ownership**: Managed everything from STT/TTS processing pipelines to frontend state management.
+
+- 🧠 Full-stack AI system (Frontend + Backend + AI integration)  
+- 🎤 Real-time voice processing pipeline (STT → LLM → TTS)  
+- ⚡ Performance-optimized architecture  
+- 🏗️ Built with scalability and product vision in mind  
 
 ---
 
 ## 📬 Contact / Access Request
-**Notice**: The source code is withheld in this public repository for intellectual property protection.
 
-I am more than happy to provide **full source code access** and a **private walkthrough** for recruiters and hiring managers. 
+If you’d like to explore the full implementation or discuss this project:
 
-📩 **Connect with me**: [Your Email or LinkedIn]
+📩 Connect with me: [https://www.linkedin.com/in/kunal-na-40a878391/]
 
 ---
-© 2024-2026 Kun AI Platform. Designed & Developed by [Your Name].
