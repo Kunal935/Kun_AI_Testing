@@ -6,7 +6,6 @@ Built using **FastAPI (backend)** and **React (frontend)**, it demonstrates mode
 ---
 
 ## Demo
-[🔗 Demo Video Link]
 
 ---
 
