@@ -76,7 +76,7 @@ Built using **FastAPI (backend)** and **React (frontend)**, it demonstrates mode
 ### Complete Platform View
 | Full Application Overview |
 |--------------------------|
-| ![Full View](Screenshots/11.png) |
+| ![Full View](Screenshots/12.png) |
 
 ---
 
