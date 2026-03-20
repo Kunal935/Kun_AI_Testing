@@ -12,7 +12,71 @@ Built using **FastAPI (backend)** and **React (frontend)**, it demonstrates mode
 
 ## Screenshots
 
+### Authentication
+| Login Page |
+|------------|
+| ![Login](Screenshots/1.png) |
 
+---
+
+### Home & Discovery
+| Home (Recent & Trending) | Discovery (Search Characters) |
+|-------------------------|------------------------------|
+| ![Home](Screenshots/2.png) | ![Discovery](Screenshots/3.png) |
+
+---
+
+### Chat Experience
+| English Chat | Hinglish Chat + Voice Playback |
+|--------------|-------------------------------|
+| ![Chat English](Screenshots/4.png) | ![Chat Hinglish](Screenshots/5.png) |
+
+**Highlights:**
+- Chat in English or Hinglish  
+- Voice playback support  
+- Call feature (video call in progress)
+
+---
+
+### Character Creation
+| Create Your Character |
+|----------------------|
+| ![Create](Screenshots/6.png) |
+
+---
+
+### Messages
+| Message History |
+|----------------|
+| ![Messages](Screenshots/7.png) |
+
+---
+
+### Settings & Profile
+| Profile |
+|--------|
+| ![Profile](Screenshots/8.png) |
+
+---
+
+### Character Management
+| Manage Characters |
+|------------------|
+| ![Manage](Screenshots/9.png) |
+
+---
+
+### Analytics
+| Usage Analytics |
+|----------------|
+| ![Analytics](Screenshots/10.png) |
+
+---
+
+### Complete Platform View
+| Full Application Overview |
+|--------------------------|
+| ![Full View](Screenshots/11.png) |
 
 ---
 
