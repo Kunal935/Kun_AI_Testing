@@ -1,35 +1,33 @@
-# 🚀 Kun AI - Voice AI Platform
+# Kun AI - Voice AI Platform
 
 **Kun AI** is a full-stack AI-powered voice generation platform designed for real-time, character-based speech synthesis.  
 Built using **FastAPI (backend)** and **React (frontend)**, it demonstrates modern AI integration, scalable architecture, and real-world system design.
 
 ---
 
-## 🎥 Demo
+## Demo
 [🔗 Demo Video Link]
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
-| UI Overview | Character Selection | Voice Interface |
-|------------|-------------------|----------------|
-| ![Home](https://via.placeholder.com/300x200?text=App+Home) | ![Characters](https://via.placeholder.com/300x200?text=Character+Select) | ![Voice](https://via.placeholder.com/300x200?text=Voice+Interface) |
+
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🎤 **AI Voice Generation** — Real-time text-to-speech synthesis  
-- 🎭 **Character-Based Voices** — Unique AI personalities  
-- 🌐 **Multilingual Support** — English + Hinglish optimized  
-- ⚡ **Interactive UI** — Smooth and modern frontend experience  
-- 🧠 **AI Integration** — LLM + STT + TTS pipeline design  
-- 🏗️ **Scalable Architecture** — Modular full-stack structure  
+-  **AI Voice Generation** — Real-time text-to-speech synthesis  
+-  **Character-Based Voices** — Unique AI personalities  
+-  **Multilingual Support** — English + Hinglish optimized  
+-  **Interactive UI** — Smooth and modern frontend experience  
+-  **AI Integration** — LLM + STT + TTS pipeline design  
+-  **Scalable Architecture** — Modular full-stack structure  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 - React (Vite)
@@ -56,32 +54,32 @@ Built using **FastAPI (backend)** and **React (frontend)**, it demonstrates mode
 
 ---
 
-## ⚠️ Important Notes
+##  Important Notes
 
-- 🚧 **Deployment Status**  
+-  **Deployment Status**  
   This project is currently **not deployed publicly**.  
   It is developed and tested in a local environment.
 
-- 🔒 **Private Source Code**  
+-  **Private Source Code**  
   The complete production-ready codebase is maintained in a **private repository**  
   to prevent API key exposure and protect sensitive integrations.
 
-- 🚀 **Startup Vision**  
+-  **Startup Vision**  
   This project is being developed as a **startup-level product**,  
   and a full production deployment is planned in the future.
 
 ---
 
-## 📌 Project Highlights
+##  Project Highlights
 
-- 🧠 Full-stack AI system (Frontend + Backend + AI integration)  
-- 🎤 Real-time voice processing pipeline (STT → LLM → TTS)  
-- ⚡ Performance-optimized architecture  
-- 🏗️ Built with scalability and product vision in mind  
+-  Full-stack AI system (Frontend + Backend + AI integration)  
+-  Real-time voice processing pipeline (STT → LLM → TTS)  
+-  Performance-optimized architecture  
+-  Built with scalability and product vision in mind  
 
 ---
 
-## 📬 Contact / Access Request
+##  Contact / Access Request
 
 If you’d like to explore the full implementation or discuss this project:
 
